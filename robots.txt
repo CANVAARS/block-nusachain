@@ -60,4 +60,4 @@ Disallow: /.github/
 Disallow: /admin/
 
 # Sitemap links
-Sitemap: https://tanya.nusachain.site/sitemap.xml
+Sitemap: https://block.nusachain.org/sitemap.xml
